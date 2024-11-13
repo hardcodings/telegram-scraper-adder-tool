@@ -3,7 +3,8 @@ a tool that scrapes and add telegram users into groups and channels
 
 developer: https://t.me/pysmart
 
-![FE6C72B9-AD3B-4836-A1C3-309E80AF1E39](https://github.com/user-attachments/assets/c902e148-f5e8-43fe-bf39-fcd596569ee0)
+![red](https://github.com/user-attachments/assets/32407b70-5db4-438d-aa15-6c9652a1d66f)
+
 
 # ANALYSIS
 - The script reads the users.txt file containing the users scraped from the previous script.
