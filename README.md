@@ -3,7 +3,7 @@ a tool that scrapes and add telegram users into groups and channels
 
 developer: https://t.me/pysmart
 
-![red](https://github.com/user-attachments/assets/32407b70-5db4-438d-aa15-6c9652a1d66f)
+![tgm](https://github.com/user-attachments/assets/2b433cd1-3dd9-4ab7-b9e6-0ded7aafa5c2)
 
 
 # ANALYSIS
