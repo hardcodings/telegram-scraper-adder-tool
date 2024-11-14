@@ -5,7 +5,6 @@ developer: https://t.me/pysmart
 
 ![tgm](https://github.com/user-attachments/assets/2b433cd1-3dd9-4ab7-b9e6-0ded7aafa5c2)
 
-
 # ANALYSIS
 - The script reads the users.txt file containing the users scraped from the previous script.
 - It attempts to add those users to the specified group or channel. It handles common errors like privacy restrictions and rate limits (FloodWaitError).
