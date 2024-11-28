@@ -1,5 +1,5 @@
 # telegram-scraper-adder-tool
-a tool that scrapes and add telegram users into groups and channels
+a tool that scrapes and add telegram users into groups and channels, both public and private
 
 developer: https://t.me/pysmart
 
