@@ -20,3 +20,5 @@ Developer: https://t.me/pysmart
 developer: https://t.me/pysmart
  
 automated tool to scrape telegram users from a group and channel with auto forwarding feature and other features
+
+TELEGRAM SCRAPER ADDER
